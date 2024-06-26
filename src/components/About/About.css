@@ -67,7 +67,6 @@ section{
     /* hello */
     .about_container > div{
         width: 90%;
-        height: 100%;
     }
     .about_left {
         width: 100%; 
