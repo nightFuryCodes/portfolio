@@ -20,9 +20,9 @@
 }
 
 @media screen and (max-width: 700px) {
-    #experience{
+    /* #experience{
         margin-top: 35rem;
-    }
+    } */
     .experience_container{
         display:grid;
         grid-template-columns: 1fr;
